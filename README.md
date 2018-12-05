@@ -1,1 +1,1 @@
-# aoc
+# My adventure with learning TypeScript with the help of https://adventofcode.com/
